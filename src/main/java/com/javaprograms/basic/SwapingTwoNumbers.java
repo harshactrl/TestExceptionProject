@@ -7,8 +7,8 @@ public class SwapingTwoNumbers {
 		int b =20;
 		int c;
 		c=a;//10
-		 a=b;//20
-		 b=c;//10
+		a=b;//20
+		b=c;//10
 		 
 		 
 		 
