@@ -1,6 +1,6 @@
 package com.javaprograms.basic;
 
-public class AddTwoNumbers {
+public class AddTwonumber {
 
 	
 	public static void main(String[] args) {
