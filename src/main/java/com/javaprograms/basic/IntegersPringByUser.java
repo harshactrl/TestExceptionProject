@@ -1,7 +1,7 @@
 package com.javaprograms.basic;
 
 import java.util.Scanner;
-
+//commit 4
 public class IntegersPringByUser {
 
 	public static void main(String[] args) {
