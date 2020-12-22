@@ -1,7 +1,7 @@
 package com.javaprograms.basic;
 
 import java.util.Scanner;
-
+//commit 5
 public class EvenOdd {
 
 	public static void main(String[] args) {
